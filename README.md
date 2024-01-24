@@ -1,2 +1,2 @@
-# Cypress-cumcumber
+# Cypress-cucumber
 Cypress with Cucumber example
